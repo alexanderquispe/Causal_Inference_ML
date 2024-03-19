@@ -11,3 +11,5 @@ Labs on Friday 8:30-10:30
 * Alberto Trelles
 * Alvaro Yllu
 * Erzo Garay
+* Franco Mengoa
+* Valeria Hoyos
