@@ -17,3 +17,13 @@ Labs on Friday 8:30-10:30
 * Maria
 * Frank
 * Mario
+
+## Movie List
+* El Padrino II
+* Ratatouille
+* Wiplash
+* Susy Diaz
+* Openheimmer
+* 900
+* Cinema Paradiso
+* La La Land
