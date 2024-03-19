@@ -13,5 +13,7 @@ Labs on Friday 8:30-10:30
 * Erzo Garay
 * Franco Mengoa
 * Valeria Hoyos
+* Matias
+* Maria
 * Frank
 * Mario
