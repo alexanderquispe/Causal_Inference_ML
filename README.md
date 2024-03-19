@@ -24,3 +24,6 @@ Labs on Friday 8:30-10:30
 * Wiplash
 * Susy Diaz
 * Openheimmer
+* 900
+* Cinema Paradiso
+* La La Land
