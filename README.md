@@ -6,3 +6,10 @@ Lectures on Tuesday 8:30-11:30
 
 ## Labs
 Labs on Friday 8:30-10:30 
+
+## Students
+* Alberto Trelles
+* Alvaro Yllu
+* Erzo Garay
+* Franco Mengoa
+* Valeria Hoyos
